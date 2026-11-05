@@ -1,0 +1,12 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "rizitis"
+            }
+        ],
+        "Id": "slackwall-landscape-alpine-1451720918",
+        "License": "CC-BY-SA-4.0",
+        "Name": "Slackwall Landscape Alpine 1451720918"
+    }
+}
